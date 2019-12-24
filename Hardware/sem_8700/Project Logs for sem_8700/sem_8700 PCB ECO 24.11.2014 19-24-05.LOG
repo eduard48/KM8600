@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=DO5 Pin=U1-19
+Removed Pin From Net: NetName=DO4 Pin=U1-20
+Removed Pin From Net: NetName=DO3 Pin=U1-21
+Removed Pin From Net: NetName=DO2 Pin=U1-22
+Removed Pin From Net: NetName=DO1 Pin=U1-23
+Removed Pin From Net: NetName=DO0 Pin=U1-24
+Added Pin To Net: NetName=DO0 Pin=U1-19
+Added Pin To Net: NetName=DO1 Pin=U1-20
+Added Pin To Net: NetName=DO2 Pin=U1-21
+Added Pin To Net: NetName=DO3 Pin=U1-22
+Added Pin To Net: NetName=DO4 Pin=U1-23
+Added Pin To Net: NetName=DO5 Pin=U1-24
+Added Member To Class: ClassName=sem8700 Member=Component UC1 ULN2003A
+Added Room: Name=sem8700

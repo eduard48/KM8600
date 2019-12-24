@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap_pol2 New DesignItemId=Cap_pol1
+Change Component Footprint: Designator=C2 Old Footprint=Cap_2(10x12.5) New Footprint=Cap_pol_13x25
+Change Component Comment : Designator=C2 Old Comment=220.0x35V New Comment=470.0x50V
+Added Pin To Net: NetName=A Pin=J1-1
+Added Pin To Net: NetName=B Pin=J1-2
+Added Room: Name=sem8700

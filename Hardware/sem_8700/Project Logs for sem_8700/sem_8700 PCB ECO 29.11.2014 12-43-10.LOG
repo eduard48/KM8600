@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=D11 Old DesignItemId=Diod_30BQ100 New DesignItemId=Diodes_4007
+Change Component Footprint: Designator=D11 Old Footprint=DIOD_SMA New Footprint=DIOD_SM1
+Change Component Comment : Designator=D11 Old Comment=SS18 New Comment=SM4007
+Added Room: Name=sem8700

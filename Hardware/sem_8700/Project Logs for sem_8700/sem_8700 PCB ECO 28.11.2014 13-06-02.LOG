@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetJP11_1 Pin=U1-44
+Added Component: Designator=XP1(Connect6_1)
+Added Pin To Net: NetName=NetJP11_1 Pin=U1-16
+Added Pin To Net: NetName=GND Pin=XP1-1
+Added Pin To Net: NetName=MOSI Pin=XP1-3
+Added Pin To Net: NetName=+5V Pin=XP1-6
+Added Pin To Net: NetName=LD Pin=U1-43
+Added Pin To Net: NetName=LD Pin=XP1-5
+Added Net: Name=LD
+Added Pin To Net: NetName=SCLK Pin=XP1-2
+Added Net: Name=SCLK
+Added Pin To Net: NetName=SS Pin=U1-44
+Added Pin To Net: NetName=SS Pin=XP1-4
+Added Net: Name=SS
+Added Member To Class: ClassName=sem8700 Member=Component XP1 XP6x1
+Added Room: Name=sem8700

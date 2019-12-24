@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: sem_8700.PcbDoc   14.05.2016  12:41:36
+---------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : sem_8700.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        27.6mil (0.70104mm)      Round          30               10.76 Inch (273.34 mm)
+T2        31.5mil (0.8001mm)       Round          31               7.55 Inch (191.82 mm)
+T3        39.4mil (1.00076mm)      Round          22               5.82 Inch (147.84 mm)
+T4        51.2mil (1.30048mm)      Round          20               6.16 Inch (156.38 mm)
+T5        59.1mil (1.50114mm)      Round          24               14.60 Inch (370.84 mm)
+---------------------------------------------------------------------------
+Totals                                            127              44.89 Inch (1140.23 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

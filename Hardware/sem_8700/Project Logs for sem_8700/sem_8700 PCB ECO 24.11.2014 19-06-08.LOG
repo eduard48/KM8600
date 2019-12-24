@@ -1,0 +1,23 @@
+Added Component: Designator=UC1_2(PDIP16_1)
+Added Pin To Net: NetName=DO0 Pin=UC1_2-1
+Added Pin To Net: NetName=DO1 Pin=UC1_2-2
+Added Pin To Net: NetName=DO2 Pin=UC1_2-3
+Added Pin To Net: NetName=DO3 Pin=UC1_2-4
+Added Pin To Net: NetName=DO4 Pin=UC1_2-5
+Added Pin To Net: NetName=DO5 Pin=UC1_2-6
+Added Pin To Net: NetName=GND Pin=UC1_2-8
+Added Pin To Net: NetName=+24V Pin=UC1_2-9
+Added Pin To Net: NetName=NetP4_5 Pin=UC1_2-11
+Added Pin To Net: NetName=NetP3_5 Pin=UC1_2-12
+Added Pin To Net: NetName=NetP2_5 Pin=UC1_2-13
+Added Pin To Net: NetName=NetP1_5 Pin=UC1_2-14
+Added Pin To Net: NetName=NetJ2_2 Pin=UC1_2-15
+Added Pin To Net: NetName=NetJ2_1 Pin=UC1_2-16
+Added Pin To Net: NetName=NetUC1_7 Pin=UC1-7
+Added Pin To Net: NetName=NetUC1_7 Pin=UC1_2-7
+Added Net: Name=NetUC1_7
+Added Pin To Net: NetName=NetUC1_10 Pin=UC1-10
+Added Pin To Net: NetName=NetUC1_10 Pin=UC1_2-10
+Added Net: Name=NetUC1_10
+Added Member To Class: ClassName=sem8700 Member=Component UC1_2 ULN2003A
+Added Room: Name=sem8700

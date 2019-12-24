@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=DO0 Pin=UC1-1
+Removed Pin From Net: NetName=DO1 Pin=UC1-2
+Removed Pin From Net: NetName=DO2 Pin=UC1-3
+Removed Pin From Net: NetName=DO3 Pin=UC1-4
+Removed Pin From Net: NetName=DO4 Pin=UC1-5
+Removed Pin From Net: NetName=DO5 Pin=UC1-6
+Removed Pin From Net: NetName=GND Pin=UC1-8
+Removed Pin From Net: NetName=+24V Pin=UC1-9
+Removed Pin From Net: NetName=NetP4_5 Pin=UC1-11
+Removed Pin From Net: NetName=NetP3_5 Pin=UC1-12
+Removed Pin From Net: NetName=NetP2_5 Pin=UC1-13
+Removed Pin From Net: NetName=NetP1_5 Pin=UC1-14
+Removed Pin From Net: NetName=NetJ2_2 Pin=UC1-15
+Removed Pin From Net: NetName=NetJ2_1 Pin=UC1-16
+Removed Member From Class: ClassName=sem8700 Member=UC1_2
+Change Component Designator: OldDesignator=UC1_2 NewDesignator=UC1
+Added Room: Name=sem8700
